@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+CreateClass/__init__.py
+CreateClass/main.py
+mi_modulo.egg-info/PKG-INFO
+mi_modulo.egg-info/SOURCES.txt
+mi_modulo.egg-info/dependency_links.txt
+mi_modulo.egg-info/top_level.txt
+tests/test.py
